@@ -1,4 +1,4 @@
-# Estructuras de Datos Lineales - Evaluación 
+# Estructuras de Datos Lineales - Evaluación Michael Yumbla
 
 ## Getting Started
 
